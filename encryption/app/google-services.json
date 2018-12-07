@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "172972797133",
+    "firebase_url": "https://encryption-5bfbc.firebaseio.com",
+    "project_id": "encryption-5bfbc",
+    "storage_bucket": "encryption-5bfbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172972797133:android:34b855c6724c6295",
+        "android_client_info": {
+          "package_name": "edu.oregonstate.rthowerton.encryption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172972797133-kctpm6fb05i2ub7tla1vu9q91rov4kbl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.oregonstate.rthowerton.encryption",
+            "certificate_hash": "f764b23145e011e0e2101a1f704de55c5eddd10e"
+          }
+        },
+        {
+          "client_id": "172972797133-vbd9t9h395bsmftsh02bp4sdrbt55ovc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlRzyS5-Kpt7sohM3WW8JiUtjx8JQ2Hwc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172972797133-vbd9t9h395bsmftsh02bp4sdrbt55ovc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
