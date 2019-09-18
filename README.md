@@ -19,4 +19,3 @@ https://github.com/ASK1995/Encryption/blob/master/3.jpeg | alt =3
 
 Clicking the Decrypt shows the decrypted image on the right side:
 
-[ERROR]
